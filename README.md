@@ -334,7 +334,7 @@ Use Zabbix’s HTTP Agent checks:
 Set up a web scenario to periodically check http://<flask-app-url>/.
 Set trigger if it returns non-200.
 
-Please find the below images of outputs of above task
+
  
 
 
